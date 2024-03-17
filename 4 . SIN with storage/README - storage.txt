@@ -1,0 +1,2 @@
+This storage code provides all storage technologies, from batteries to SPHS technologies. In this phase of model development it's included a boudary to solar technology to avoid energy production at night.
+Brazilian Energy System in a excel file is the output of this code.  

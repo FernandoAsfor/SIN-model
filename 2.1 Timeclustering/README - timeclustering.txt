@@ -1,0 +1,2 @@
+Timeclustering code reads the excel file, which has the hourly data of intermitent technologies, and selects 2 representative days, one for winter and another for summer.
+The code's output is an excel file with the 12 timesteps data for the predefined technologies.   

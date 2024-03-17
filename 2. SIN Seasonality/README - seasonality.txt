@@ -1,0 +1,2 @@
+The seasonality code provides 12 timesteps in order to represent any kind of seasonality that a technology might have.
+The output of seasonality code will provide an excel file of the model. It's important to take a copy of this file in order to modify it with the data provided by timeclustering phase.

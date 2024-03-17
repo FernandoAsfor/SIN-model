@@ -1,0 +1,2 @@
+This code begins reading an excel file in order to create a new model. This excel file should be the excel output of seasonality phase with the improvements given by timeclustering phase (for example, capacity factor, historical activity, demand sheets must be updated).
+The code runs another excel file to include the water techs to the developing model.
